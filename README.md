@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Tetris Game 🎮
 
-## Getting Started
+A classic Tetris game developed with **Next.js** and **TypeScript**, using **Framer Motion** for animations and **ShadCN** for the interface.
 
-First, run the development server:
+## 🚀 Features
+- Smooth gameplay with **React Hooks** (`useState`, `useEffect`).
+- Intuitive controls and responsive design.
+- Dynamic sound effects and animations with **Framer Motion**.
+- Modern UI powered by **ShadCN**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Installation
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/tetris-game.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd tetris-game
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+5. Open your browser and go to `http://localhost:3000` to play.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎮 Controls
+- **Arrow Left/Right** → Move the piece
+- **Arrow Down** → Speed up the fall
+- **Arrow Up** → Rotate the piece
+- **Space** → Drop the piece instantly
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🖥️ Technologies Used
+- **Next.js (App Router)**
+- **TypeScript**
+- **Framer Motion**
+- **ShadCN UI**
 
-## Learn More
+## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/d6a3d0b4-a557-4a20-87d2-06ccb12efeab)
 
-To learn more about Next.js, take a look at the following resources:
+## 📜 License
+This project is licensed under the MIT License.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📩 Contact
+For any questions or suggestions, feel free to reach out!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔗 **Live Demo:** [Coming Soon]
